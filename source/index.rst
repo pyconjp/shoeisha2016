@@ -3,20 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to shoeisya2016's documentation!
+株式会社翔泳社さん 原稿まとめ
 ========================================
 
-Contents:
+本資料では、CodeZine(翔泳社さん)に掲載する原稿を取りまとめる。
+
+
 
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   summary
+   01_pyconjp
+   02_program
+   03_venue
+   04_others
+   authors
