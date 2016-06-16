@@ -55,6 +55,8 @@ CodeZine開催前レポート 概要
 対応してもらいたい箇所
 ========================
 
+`レポジトリ <https://github.com/pyconjp/shoeisya2016>`_
+
 - 各連載ページ ``source/beforereport_***.rst``
 - 執筆者ページ ``source/beforereport_authors.rst``
 
