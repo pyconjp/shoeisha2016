@@ -67,5 +67,5 @@ CodeZine開催前レポート 概要
 - ですます調で書いてください。
 - 執筆した人は ``source/beforereport_authors.rst`` にプロフィールを書いてください。
 - 締め切り日までに執筆とレビューを済ませてください。レビューはSlack#2016で行うと良いと思います。
-- 画像があった方が見やすいので、ぜひ入れてください。画像置き場は source/_static 配下です。また、いい感じの画像は `ここ <https://www.flickr.com/photos/pyconjp/albums/with/72157647111767068>`_ から探すとよいと思います。
+- 画像があった方が見やすいので、ぜひ入れてください。画像置き場は source/_static 配下です。また、いい感じの画像は `PyCon JPのFlickr <https://www.flickr.com/photos/pyconjp/albums/with/72157647111767068>`_ から探すとよいと思います。
 - Sphinxの記法をよく知らない方は、 `去年の原稿レポジトリ <https://bitbucket.org/pyconjp/reports2015/src/625ca3c32bd8?at=default>`_ を参考にしてください。
