@@ -22,7 +22,8 @@
 
 PyCon JPとは
 --------------
-[homepage image]
+.. image:: /_static/pyconjp2016-logo.png
+
 PyCon JPは、Pythonユーザーが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。
 PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Pythonにまつわるさまざまな分野の知識や情報を交換し、新たな友達やコミュニティとのつながり、仕事やビジネスチャンスを増やせる場所とすることが目標です。
 
