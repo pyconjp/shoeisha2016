@@ -29,7 +29,7 @@ PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Python
 
 `PyCon JP 2016公式サイト <https://pycon.jp/2016/ja/>`_
 
-PyCon JP 2016では、「Everyone's different, all are wonderful」をテーマに据えました。
+PyCon JP 2016では、「Everyone's different, all are wonderful.」をテーマに据えました。
 Pythonをキーワードに多様な人たちが、いろいろ楽しめて、新しい可能性が生まれるカンファレンスを目指して、スタッフ全員で企画を進めています。
 詳細は本連載にてたっぷりお伝えしますので、どうぞご期待ください。
 
