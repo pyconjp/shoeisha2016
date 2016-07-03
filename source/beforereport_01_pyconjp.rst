@@ -86,7 +86,33 @@ Youth Coder Workshop
 
 キーノート
 ==========
-- @yagami ここ書いてください
+PyCon JP 2016プログラムチームの八神です。
+
+今年のキーノートスピーカーの方々を紹介します。
+
+一人目は、Boston Pythonという世界最大級のPython User Groupを運営されているJessica McKellarさんです。
+
+.. image:: /_static/beforereport_01_pyconjp/jessica_profile.jpg
+
+Jessicaさんは、起業家として、ソフトウェアエンジニアとして、さらにオープンソース開発者として、多方面で活躍されています。これまでに、Python Software Foundationのディレクター、北米PyConにおける多様性推進活動の代表者、さらにはTwisted等著名OSSのメンテナなどを務めてきました。これらの活動は大きく評価され、2013年にO'Reilly Open Source Awardを受賞しています。
+
+特に、PyConにおける多様性への取り組みについて述べた彼女のツイートは印象的です。
+
+.. figure:: /_static/beforereport_01_pyconjp/jessica_tweet.png
+
+   (https://twitter.com/jessicamckellar/status/413009020522221568 より)
+
+----
+
+二人目は、Python 3.5における型ヒントの実現に多大な貢献をされたAndrey Vlasovskikhさんです。
+
+.. image:: /_static/beforereport_01_pyconjp/andrey_profile.jpg
+
+Andreyさんは、 PEP 484 型ヒントに大きな貢献をされただけでなく、Python向けIDEであるPyCharmのコミュニティリード、PyCharm用Vimエミュレーションのメンテナなどを務めています。また、Python向けfunctional parsingライブラリであるfuncparserlibの作者や、ロシアのPython meetupの主催者としても活躍しています。
+
+Andreyさんのキーノートでは、型ヒント自体のお話に加え、Python 2からPython 3への移行における型ヒントの役割等についてもお話いただく相談をしています。どんなお話になるのか楽しみです。
+
+今年も素晴らしい方々にキーノートをお願いすることができました。ぜひPyCon JP 2016に参加して、お二人と交流してみて下さい！
 
 まとめと次回
 ============
