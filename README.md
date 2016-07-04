@@ -9,7 +9,7 @@
 ## ビルド方法
 
 ```
-$ git clone git@github.com:pyconjp/shoeisya2016.git
+$ git clone git@github.com:pyconjp/shoeisha2016.git
 $ cd shoeisha2016
 $ virtualenv -p python 3.5 env
 $ . env/bin/acitivate
