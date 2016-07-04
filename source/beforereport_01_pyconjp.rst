@@ -108,7 +108,7 @@ Jessicaさんは、起業家として、ソフトウェアエンジニアとし�
 
 .. image:: /_static/beforereport_01_pyconjp/andrey_profile.jpg
 
-Andreyさんは、 `PEP 484 <https://www.python.org/dev/peps/pep-0484/>`_ ( `参考訳 <http://qiita.com/t2y/items/f95f6efe163b29be59af>`_ ) 型ヒントに大きな貢献をされただけでなく、Python向けIDEである `PyCharm <https://www.jetbrains.com/pycharm/>`_ のコミュニティリード、 `PyCharm用Vimエミュレーション <https://github.com/JetBrains/ideavim>`_ のメンテナなどを務めています。また、Python向けfunctional parsingライブラリである `funcparserlib <https://github.com/vlasovskikh/funcparserlib>`_ の作者や、ロシアのPython meetupの主催者としても活躍しています。
+Andreyさんは、 `PEP 484 型ヒント <https://www.python.org/dev/peps/pep-0484/>`_ ( `参考訳 <http://qiita.com/t2y/items/f95f6efe163b29be59af>`_ ) に大きな貢献をされただけでなく、Python向けIDEである `PyCharm <https://www.jetbrains.com/pycharm/>`_ のコミュニティリード、 `PyCharm用Vimエミュレーション <https://github.com/JetBrains/ideavim>`_ のメンテナなどを務めています。また、Python向けfunctional parsingライブラリである `funcparserlib <https://github.com/vlasovskikh/funcparserlib>`_ の作者や、ロシアのPython meetupの主催者としても活躍しています。
 
 Andreyさんのキーノートでは、型ヒント自体のお話に加え、Python 2からPython 3への移行における型ヒントの役割等についてもお話いただく相談をしています。どんなお話になるのか楽しみです。
 
