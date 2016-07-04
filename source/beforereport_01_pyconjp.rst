@@ -90,11 +90,11 @@ PyCon JP 2016プログラムチームの八神です。
 
 今年のキーノートスピーカーの方々を紹介します。
 
-一人目は、Boston Pythonという世界最大級のPython User Groupを運営されているJessica McKellarさんです。
+一人目は、 `Boston Python <http://www.meetup.com/ja-JP/bostonpython/>`_ という世界最大級のPython User Groupを運営されているJessica McKellarさんです。
 
 .. image:: /_static/beforereport_01_pyconjp/jessica_profile.jpg
 
-Jessicaさんは、起業家として、ソフトウェアエンジニアとして、さらにオープンソース開発者として、多方面で活躍されています。これまでに、Python Software Foundationのディレクター、北米PyConにおける多様性推進活動の代表者、さらにはTwisted等著名OSSのメンテナなどを務めてきました。これらの活動は大きく評価され、2013年にO'Reilly Open Source Awardを受賞しています。
+Jessicaさんは、起業家として、ソフトウェアエンジニアとして、さらにオープンソース開発者として、多方面で活躍されています。これまでに、 `Python Software Foundation <https://www.python.org/psf/>`_ のディレクター、 `北米PyCon <https://us.pycon.org/2016/>`_ における多様性推進活動の代表者、さらには `Twisted <http://twistedmatrix.com/trac/>`_ 等著名OSSのメンテナなどを務めてきました。これらの活動は大きく評価され、2013年に `O'Reilly Open Source Award <http://pyfound.blogspot.jp/2013/08/congratulations-to-jessica-mckellar.html>`_ を受賞しています。
 
 特に、PyConにおける多様性への取り組みについて述べた彼女のツイートは印象的です。
 
@@ -108,7 +108,7 @@ Jessicaさんは、起業家として、ソフトウェアエンジニアとし�
 
 .. image:: /_static/beforereport_01_pyconjp/andrey_profile.jpg
 
-Andreyさんは、 PEP 484 型ヒントに大きな貢献をされただけでなく、Python向けIDEであるPyCharmのコミュニティリード、PyCharm用Vimエミュレーションのメンテナなどを務めています。また、Python向けfunctional parsingライブラリであるfuncparserlibの作者や、ロシアのPython meetupの主催者としても活躍しています。
+Andreyさんは、 `PEP 484 <https://www.python.org/dev/peps/pep-0484/>`_ ( `参考訳 <http://qiita.com/t2y/items/f95f6efe163b29be59af>`_ ) 型ヒントに大きな貢献をされただけでなく、Python向けIDEである `PyCharm <https://www.jetbrains.com/pycharm/>`_ のコミュニティリード、 `PyCharm用Vimエミュレーション <https://github.com/JetBrains/ideavim>`_ のメンテナなどを務めています。また、Python向けfunctional parsingライブラリである `funcparserlib <https://github.com/vlasovskikh/funcparserlib>`_ の作者や、ロシアのPython meetupの主催者としても活躍しています。
 
 Andreyさんのキーノートでは、型ヒント自体のお話に加え、Python 2からPython 3への移行における型ヒントの役割等についてもお話いただく相談をしています。どんなお話になるのか楽しみです。
 
