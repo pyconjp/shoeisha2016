@@ -16,3 +16,10 @@ $ . env/bin/acitivate
 (env)$ pip install -r requirements.txt
 (env)$ make html
 ```
+
+うまくいかない場合には
+
+```
+$ virtualenv -p python 3.5
+$ . 3.5/bin/acitivate
+```
