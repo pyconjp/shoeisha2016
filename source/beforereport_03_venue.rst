@@ -3,33 +3,41 @@
 ================================
 
 .. note::
-   以下のアウトラインは `去年のもの <https://codezine.jp/article/detail/8991>`_ です。
-   あくまで例として記載したので、今年にあったアウトラインに変更をお願いします。
+   - 以下のアウトラインは `去年のもの <https://codezine.jp/article/detail/8991>`_ です。   あくまで例として記載したので、今年にあったアウトラインに変更をお願いします。
+   - 書きたいことがあれば自由にセクションを追加してみてください。記述方法がよくわからなくてもなんとなく書いてコミットしてください。[Masaru] が適宜修正します。
+   - make する環境がすぐに構築できなくても、なんとなく書いてコミットしてください。体裁は [Masaru] が確認して整えます。
 
 会場
 ==========
 
 早稲田大学について
 ----------
+[Sato] or [???] writes.
 
 高田馬場の歴史について
 ----------
+[Sato] or [Yuya] writes.
 
 高田馬場のグルメ情報
 ----------
+[Yuya] or [???] writes.
 
 アクセス
 ----------
+[Sato] or [Yuya] writes.
 
 注意点
 -------
+[Sato] or [Yuya] or [Masaru] or [Masataka] or [???] writes.
 
 ライブ配信
 ========
+[Masaru] or [Masataka] or [???] writes.
 
 ランチ
 ========
+[Masaru] or [Masataka] writes.
 
 パーティー
 ==============
-
+[Masaru] or [Masataka] writes.
