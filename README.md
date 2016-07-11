@@ -11,15 +11,9 @@
 ```
 $ git clone git@github.com:pyconjp/shoeisha2016.git
 $ cd shoeisha2016
-$ virtualenv -p python 3.5 env
+$ virtualenv -p python3.5 env
 $ . env/bin/activate
 (env)$ pip install -r requirements.txt
 (env)$ make html
 ```
 
-うまくいかない場合には
-
-```
-$ virtualenv -p python env
-$ . env/bin/acitivate
-```
