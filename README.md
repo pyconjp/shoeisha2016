@@ -20,6 +20,6 @@ $ . env/bin/activate
 うまくいかない場合には
 
 ```
-$ virtualenv -p python 3.5
-$ . 3.5/bin/acitivate
+$ virtualenv -p python env
+$ . env/bin/acitivate
 ```
