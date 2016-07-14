@@ -30,3 +30,22 @@
 
 - Twitter: `@takanory <https://twitter.com/takanory>`_
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
+
+
+舛岡 英人(マスオカヒデト)
+==============================
+.. image:: /_static/beforereport_authors/masuoka.jpg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当。 `株式会社Preferred Infrastructure  https://preferred.jp>`_ 所属
+
+業務でDjangoとPythonに、Pythonに興味をもつ。業務以外では、Python製深層学習フレームワークChainerのコミュニティ活動を行う。
+PyCon JPは2016から参加。
+
+仕事上のミッションは「いかに世の中から「使われないソフトウェア」を減らすか」
+
+趣味は、フットサル。
+
+- Twitter: `@hidetomasuoka <https://twitter.com/hidetomasuoka>`_
+
+
+
