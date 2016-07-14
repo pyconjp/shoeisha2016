@@ -44,3 +44,17 @@
 
 - Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
 - Facebook: `清田 史和 <https://www.facebook.com/fumikazu.kiyota>`_
+
+
+清水川 貴之（シミズカワ タカユキ）
+=============================================
+
+.. figure:: _static/beforereport_authors/shimizukawa.jpg
+
+ドキュメンテーションツール Sphinx のメンテナ。
+Sphinx-users.jp 運営。 一般社団法人PyConJP理事。 株式会社ビープラウド所属。
+著書/訳書:「Pythonプロフェッショナルプログラミング第2版」「Sphinxをはじめよう」「Pythonプロフェッショナルプログラミング」「エキスパートPythonプログラミング」。
+
+- http://about.me/shimizukawa
+
+
