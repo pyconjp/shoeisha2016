@@ -31,6 +31,7 @@
 - Twitter: `@takanory <https://twitter.com/takanory>`_
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
 
+
 清田 史和(キヨタ フミカズ)
 ==============================
 .. image:: /_static/beforereport_authors/kiyota.jpg
@@ -44,3 +45,13 @@
 
 - Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
 - Facebook: `清田 史和 <https://www.facebook.com/fumikazu.kiyota>`_
+
+
+村松　和哉(ムラマツ カズヤ)
+==============================
+.. image:: /_static/beforereport_authors/peta.jpg
+
+東京電機大学、工学部に在籍。Pycon JP 2016ではプログラムチーム(ポスターセッション)を担当。
+3年前に友人にPythonを勧められ、それ以来しばしば触るようになる。好きなモジュールはbs4やFlask。
+
+- Twitter: `@peta_matu <https://twitter.com/peta_matu>`_
