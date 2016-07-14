@@ -36,7 +36,7 @@
 ==============================
 .. image:: /_static/beforereport_authors/masuoka.jpg
 
-`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当。 `株式会社Preferred Infrastructure  https://preferred.jp>`_ 所属
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当。 `株式会社Preferred Infrastructure <https://preferred.jp>`_ 所属
 
 業務でDjangoとPythonに、Pythonに興味をもつ。業務以外では、Python製深層学習フレームワークChainerのコミュニティ活動を行う。
 PyCon JPは2016から参加。
