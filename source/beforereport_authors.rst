@@ -82,3 +82,14 @@ PyCon JPは2016から参加。
 趣味は、フットサル。
 
 - Twitter: `@hidetomasuoka <https://twitter.com/hidetomasuoka>`_
+
+畠 弥峰 (ハタ ヒロタカ)
+==============================
+.. image:: /_static/beforereport_authors/flagboy.jpg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ チュートリアル担当。
+
+Webアプリケーションを中心に10年近くPythonで仕事をしている。PyCon JPには2012年からスタッフとして活動。
+
+
+- Twitter: `@hidetomasuoka <https://twitter.com/flag_boy>`_
