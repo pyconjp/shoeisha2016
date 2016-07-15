@@ -32,6 +32,43 @@
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
 
 
+=======
+清田 史和(キヨタ フミカズ)
+==============================
+.. image:: /_static/beforereport_authors/kiyota.jpg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当副座長。 `株式会社ヴァズ <http://vuzz.com/>`_ 所属
+
+2012年からPyCon JP実行委員として活動を開始。Pythonは、5年前に立ち上げた `SnapDish <http://snapdish.co>`_ というサービスでプロダクション利用。IT分野では、Startup業を生業としている。最近は、コーヒーを通じた国際貢献を視野に入れた分野や子どもの育ちを考えた保育教育実践にも積極的に関わり活動を行う。
+
+他の所属は、 `学校法人北部学園幼保連携型認定こども園ほくぶ幼稚園 <http://hokugaku.com>`_  理事長、
+`株式会社 <http://natural.coffee/>`_ 代表取締役社長など。
+
+- Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
+- Facebook: `清田 史和 <https://www.facebook.com/fumikazu.kiyota>`_
+
+
+村松　和哉(ムラマツ カズヤ)
+==============================
+.. image:: /_static/beforereport_authors/peta.jpg
+
+東京電機大学、工学部に在籍。Pycon JP 2016ではプログラムチーム(ポスターセッション)を担当。
+3年前に友人にPythonを勧められ、それ以来しばしば触るようになる。好きなモジュールはbs4やFlask。
+
+- Twitter: `@peta_matu <https://twitter.com/peta_matu>`_
+
+
+清水川 貴之（シミズカワ タカユキ）
+=============================================
+
+.. figure:: _static/beforereport_authors/shimizukawa.jpg
+
+ドキュメンテーションツール Sphinx のメンテナ。
+Sphinx-users.jp 運営。 一般社団法人PyConJP理事。 株式会社ビープラウド所属。
+著書/訳書:「Pythonプロフェッショナルプログラミング第2版」「Sphinxをはじめよう」「Pythonプロフェッショナルプログラミング」「エキスパートPythonプログラミング」。
+
+- http://about.me/shimizukawa
+
 舛岡 英人(マスオカヒデト)
 ==============================
 .. image:: /_static/beforereport_authors/masuoka.jpg
@@ -46,6 +83,3 @@ PyCon JPは2016から参加。
 趣味は、フットサル。
 
 - Twitter: `@hidetomasuoka <https://twitter.com/hidetomasuoka>`_
-
-
-
