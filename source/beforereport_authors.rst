@@ -32,7 +32,6 @@
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
 
 
-=======
 清田 史和(キヨタ フミカズ)
 ==============================
 .. image:: /_static/beforereport_authors/kiyota.jpg
