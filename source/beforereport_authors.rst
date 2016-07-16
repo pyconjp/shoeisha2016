@@ -31,7 +31,6 @@
 - Twitter: `@takanory <https://twitter.com/takanory>`_
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
 
-
 清田 史和(キヨタ フミカズ)
 ==============================
 .. image:: /_static/beforereport_authors/kiyota.jpg
@@ -93,3 +92,14 @@ Webアプリケーションを中心に10年近くPythonで仕事をしている
 
 
 - Twitter: `@hidetomasuoka <https://twitter.com/flag_boy>`_
+
+八神 貴心(ヤガミ キシン)
+==============================
+.. image:: /_static/beforereport_authors/yagami.png
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ キーノート担当。五反田〜品川近辺でインフラを作ったりコード書いたりしている。
+
+ここ数年はOSS関連の活動がマイブーム。最近好きなOSSは `Hugo <http://gohugo.io/>`_ と `LambCI <https://medium.com/@hichaelmart/lambci-4c3e29d6599b#.u5618uibn>`_ 。
+
+GitHub: `ks888 <https://github.com/ks888/>`_
+Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
