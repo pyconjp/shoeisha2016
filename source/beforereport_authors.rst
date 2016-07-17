@@ -103,3 +103,18 @@ Webアプリケーションを中心に10年近くPythonで仕事をしている
 
 GitHub: `ks888 <https://github.com/ks888/>`_
 Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
+
+
+齋藤 大輔(サイトウ ダイスケ)
+=================================
+.. image:: /_static/beforereport_authors/saito.jpeg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当副座長。
+早稲田大学基幹理工学研究科博士後期課程および同大学教育学部助手。
+プログラミング言語の教育を専門に研究している。Pythonを使ったGUIプログラミングに興味がある。
+特にKivyがマイブーム。Kivyのドキュメントを翻訳したりしている。
+
+- Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
+- Linkedin: `Daisuke Saito <https://www.linkedin.com/in/ds110>`_
+
+
