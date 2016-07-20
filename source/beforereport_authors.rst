@@ -106,7 +106,7 @@ Webアプリケーションを中心に10年近くPythonで仕事をしている
 ==============================
 .. image:: /_static/beforereport_authors/yagami.png
 
-`PyCon JP 2016 <https://pycon.jp/2016/>`_ キーノート担当。五反田?品川近辺でインフラを作ったりコード書いたりしている。
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ キーノート担当。五反田〜品川近辺でインフラを作ったりコード書いたりしている。
 
 ここ数年はOSS関連の活動がマイブーム。最近好きなOSSは `Hugo <http://gohugo.io/>`_ と `LambCI <https://medium.com/@hichaelmart/lambci-4c3e29d6599b#.u5618uibn>`_ 。
 
