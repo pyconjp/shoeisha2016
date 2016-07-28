@@ -91,10 +91,10 @@ Youth Coder Workshop
 去年は、Pythonを使ってサンドボックスゲームのMinecraft上に壁画を描画するという内容でした。
 
 .. image:: _static/beforereport_02_program/youthcoderlastyear.jpg
-   :height: 100
+   :width: 100
 
 
-
+    
 さて、今年はPythonで「でんのう地図」をつくろうです。  
 
 「でんのう地図」とは?
