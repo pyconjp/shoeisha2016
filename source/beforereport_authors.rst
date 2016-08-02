@@ -117,6 +117,19 @@ Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
 - Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
 - Linkedin: `Daisuke Saito <https://www.linkedin.com/in/ds110>`_
 
+山口 祐子(ヤマグチ ユウコ)
+==============================
+.. image:: /_static/beforereport_authors/yuko.jpg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ 広報・メディアスポンサー担当。  
+PyCon JPは2016年から参加。  
+
+普段は六本木の某IT企業でコードを書いている。社内ではPython派は少数なのが悩みどころ。  
+
+趣味はヴァイオリン演奏とマラソン。  
+
+- Twitter: `@yukofeb <https://twitter.com/yukofeb>`_  
+
 安立 沙耶佳(アダチ サヤカ)
 ==========================
 .. image:: /_static/beforereport_authors/angela.jpg
@@ -124,3 +137,4 @@ Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
 PyCon JPでSponsorshipを中心に、事務局まわりを担当しています。ド文系ですが、仕事はエンジニアに関わることです。エンジニアの喜怒哀楽をもっと理解して、なんかわかるヤツになりたくて、PyCon JP 2015からスタッフとして参加しています。
 
 - Facebook: `安立 沙耶佳 <https://www.facebook.com/sayaka.adachi.posi>`_
+
