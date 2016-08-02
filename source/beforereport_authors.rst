@@ -117,4 +117,10 @@ Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
 - Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
 - Linkedin: `Daisuke Saito <https://www.linkedin.com/in/ds110>`_
 
+安立 沙耶佳(アダチ サヤカ)
+==========================
+.. image:: /_static/beforereport_authors/angela.jpg
 
+PyCon JPでSponsorshipを中心に、事務局まわりを担当しています。ド文系ですが、仕事はエンジニアに関わることです。エンジニアの喜怒哀楽をもっと理解して、なんかわかるヤツになりたくて、PyCon JP 2015からスタッフとして参加しています。
+
+- Facebook: `安立 沙耶佳 <https://www.facebook.com/sayaka.adachi.posi>`_
