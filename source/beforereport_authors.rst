@@ -138,3 +138,11 @@ PyCon JPでSponsorshipを中心に、事務局まわりを担当しています�
 
 - Facebook: `安立 沙耶佳 <https://www.facebook.com/sayaka.adachi.posi>`_
 
+入澤 賢(イリサワ マサル)
+=================================
+
+.. image:: /_static/beforereport_authors/irisawa.jpg
+
+　会場チーム。主に食事関連と、会場に関する調整などを担当。音楽と純米生原酒の人。SVEA 123 をお供に、ときどき奥高尾を徘徊。実はどちらかというと Perl の人だったりして...。
+
+- Facebook: `入澤 賢 <https://www.facebook.com/irisawa.masaru>`_
