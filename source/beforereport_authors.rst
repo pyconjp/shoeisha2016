@@ -10,7 +10,7 @@
    名前(フリガナ)を見出しに適当に書いてください。
       プロフィール画像もお忘れなく。
       例としてtakanoryさんのプロフィールを入れています。
-   去年から変更がない人は `Bitbucket <https://bitbucket.org/pyconjp/reports2015/src/625ca3c32bd87a0d3b6784650f9b46af13421746/source/authors.rst?at=default&fileviewer=file-view-default>`_ からコピペしてもいいかも。
+      去年から変更がない人は `Bitbucket <https://bitbucket.org/pyconjp/reports2015/src/625ca3c32bd87a0d3b6784650f9b46af13421746/source/authors.rst?at=default&fileviewer=file-view-default>`_ からコピペしてもいいかも。
 
 鈴木 たかのり(スズキ タカノリ)
 ==============================
@@ -91,7 +91,7 @@ PyCon JPは2016から参加。
 Webアプリケーションを中心に10年近くPythonで仕事をしている。PyCon JPには2011年からスタッフとして活動。
 
 
-- Twitter: `@hidetomasuoka <https://twitter.com/flag_boy>`_
+- Twitter: `@flag_boy <https://twitter.com/flag_boy>`_
 
 八神 貴心(ヤガミ キシン)
 ==============================
