@@ -10,7 +10,7 @@
    名前(フリガナ)を見出しに適当に書いてください。
       プロフィール画像もお忘れなく。
       例としてtakanoryさんのプロフィールを入れています。
-   去年から変更がない人は `Bitbucket <https://bitbucket.org/pyconjp/reports2015/src/625ca3c32bd87a0d3b6784650f9b46af13421746/source/authors.rst?at=default&fileviewer=file-view-default>`_ からコピペしてもいいかも。
+      去年から変更がない人は `Bitbucket <https://bitbucket.org/pyconjp/reports2015/src/625ca3c32bd87a0d3b6784650f9b46af13421746/source/authors.rst?at=default&fileviewer=file-view-default>`_ からコピペしてもいいかも。
 
 鈴木 たかのり(スズキ タカノリ)
 ==============================
@@ -100,7 +100,7 @@ PyCon JPは2016から参加。
 Webアプリケーションを中心に10年近くPythonで仕事をしている。PyCon JPには2011年からスタッフとして活動。
 
 
-- Twitter: `@hidetomasuoka <https://twitter.com/flag_boy>`_
+- Twitter: `@flag_boy <https://twitter.com/flag_boy>`_
 
 八神 貴心(ヤガミ キシン)
 ==============================
@@ -125,5 +125,45 @@ Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
 
 - Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
 - Linkedin: `Daisuke Saito <https://www.linkedin.com/in/ds110>`_
+
+山口 祐子(ヤマグチ ユウコ)
+==============================
+.. image:: /_static/beforereport_authors/yuko.jpg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ 広報・メディアスポンサー担当。  
+PyCon JPは2016年から参加。  
+
+普段は六本木の某IT企業でコードを書いている。社内ではPython派は少数なのが悩みどころ。  
+
+趣味はヴァイオリン演奏とマラソン。  
+
+- Twitter: `@yukofeb <https://twitter.com/yukofeb>`_  
+
+安立 沙耶佳(アダチ サヤカ)
+==========================
+.. image:: /_static/beforereport_authors/angela.jpg
+
+PyCon JPでSponsorshipを中心に、事務局まわりを担当しています。ド文系ですが、仕事はエンジニアに関わることです。エンジニアの喜怒哀楽をもっと理解して、なんかわかるヤツになりたくて、PyCon JP 2015からスタッフとして参加しています。
+
+- Facebook: `安立 沙耶佳 <https://www.facebook.com/sayaka.adachi.posi>`_
+
+入澤 賢(イリサワ マサル)
+=================================
+
+.. image:: /_static/beforereport_authors/irisawa.jpg
+
+　会場チーム。主に食事関連と、会場に関する調整などを担当。音楽と純米生原酒の人。SVEA 123 をお供に、ときどき奥高尾を徘徊。実はどちらかというと Perl の人だったりして...。
+
+- Facebook: `入澤 賢 <https://www.facebook.com/irisawa.masaru>`_
+
+
+高品 佑也(タカシナ　ユウヤ)
+=================================
+
+.. image:: /_static/beforereport_authors/ytakashina.jpg
+
+　会場チーム。今回会場になった大学で機械学習を勉強したりしています。jupyter 便利です。
+
+- Facebook: `高品佑也 <https://www.facebook.com/yuya.takashina.3>`_
 
 
