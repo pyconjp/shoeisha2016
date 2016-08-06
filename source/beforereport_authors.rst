@@ -146,3 +146,15 @@ PyCon JPでSponsorshipを中心に、事務局まわりを担当しています�
 　会場チーム。主に食事関連と、会場に関する調整などを担当。音楽と純米生原酒の人。SVEA 123 をお供に、ときどき奥高尾を徘徊。実はどちらかというと Perl の人だったりして...。
 
 - Facebook: `入澤 賢 <https://www.facebook.com/irisawa.masaru>`_
+
+
+高品 佑也(タカシナ　ユウヤ)
+=================================
+
+.. image:: /_static/beforereport_authors/ytakashina.jpg
+
+　会場チーム。今回会場になった大学で機械学習を勉強したりしています。jupyter 便利です。
+
+- Facebook: `高品佑也 <https://www.facebook.com/yuya.takashina.3>`_
+
+
