@@ -55,6 +55,15 @@
 
 - Twitter: `@peta_matu <https://twitter.com/peta_matu>`_
 
+飯田　頌平(イイダ ショウヘイ)
+==============================
+.. image:: /_static/beforereport_authors/iida.jpg
+
+東京電機大学 通信処理ネットワーク研究室に所属。
+専攻は機械学習。
+Pycon JP 2016ではスプリント、ポスターセッションを担当。
+
+- Facebook: `飯田 頌平 <https://www.facebook.com/deeplearning.siida>`_
 
 清水川 貴之（シミズカワ タカユキ）
 =============================================
