@@ -139,6 +139,19 @@ PyCon JPは2016年から参加。
 
 - Twitter: `@yukofeb <https://twitter.com/yukofeb>`_  
 
+橋本 安司(ハシモト ヤスシ)
+==============================
+.. image:: /_static/beforereport_authors/Hashimoto_Yasushi.png
+
+PyCon JP 2015より、Web担当をしています。
+
+JavaScriptのフロントエンド開発を中心にWebプログラマーをしています。
+
+ゲーム系のエンタメ誌のエディターや、サブカル系のショップのWebディレクターを経て、20代後半にPython/Djangoに出会い、Webプログラマーとなりました。
+
+- Twitter: `@yellow844 <https://twitter.com/yellow844>`_
+
+
 安立 沙耶佳(アダチ サヤカ)
 ==========================
 .. image:: /_static/beforereport_authors/angela.jpg
