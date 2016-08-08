@@ -152,6 +152,21 @@ JavaScriptのフロントエンド開発を中心にWebプログラマーをし�
 - Twitter: `@yellow844 <https://twitter.com/yellow844>`_
 
 
+吉田 俊輔(ヨシダ シュンスケ)
+==============================
+.. image:: /_static/beforereport_authors/koedoyoshida.png
+   :width: 200
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ 副座長(メディア）。
+
+PyCon JPスタッフ参加は3年目。ミラクル・リナックス株式会社勤務。どこにでもいる自称、一般人です。小江戸らぐ/東海道LUG/東京エリアDebian勉強会/USAGI補完計画等、 関東近郊のOSSコミュニティに参加。イベント参加/出展や原稿執筆を行っています。
+
+共著書に『 `Debug Hacks -デバッグを極めるテクニック&ツール <https://www.oreilly.co.jp/books/9784873114040/>`_ （2009 オライリー・ジャパン刊）』などがあります。
+
+趣味は各地のカンファレンス参加/出展等のついでの温泉や観光。
+
+- Facebook: `吉田 俊輔 <https://www.facebook.com/koedoyoshida>`_
+
 安立 沙耶佳(アダチ サヤカ)
 ==========================
 .. image:: /_static/beforereport_authors/angela.jpg
