@@ -13,9 +13,9 @@
 .. toctree::
    :maxdepth: 2
 
-   beforereport_summary
-   beforereport_01_pyconjp
-   beforereport_02_program
-   beforereport_03_venue
-   beforereport_04_others
-   beforereport_authors
+   afterreport_summary
+   afterreport_01_venue
+   afterreport_02_program
+   afterreport_03_media
+   afterreport_04_secretariat
+   afterreport_authors
