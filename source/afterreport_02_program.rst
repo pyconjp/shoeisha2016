@@ -30,11 +30,11 @@ Youth Coder Workshop
 
 講師・教材作成は昨年に引き続き、今年もICTプログラミングスクールの `TENTO <http://www.tento-net.com/>`_ さんに依頼しました。
 
-.. figure:: 29890594085_776e6e5418_z.jpg
+.. figure:: _static/afterreport_02_program/29890594085_776e6e5418_z.jpg
    :width: 200px
    :alt: 講師 TENTO 松尾氏
 
-.. figure:: 29596889060_a3055b17fb_z.jpg
+.. figure:: _static/afterreport_02_program/29596889060_a3055b17fb_z.jpg
    :width: 200px
    :alt: TENTO 松尾氏ととあるYouth Coder
 
