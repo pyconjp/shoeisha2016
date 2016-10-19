@@ -20,9 +20,7 @@ PyCon JP 2016は約720名 [#f1]_ (スタッフ、スポンサー参加者含む)
 
 - `PyCon JP 2016 のテーマが決定しました <http://pyconjp.blogspot.jp/2016/02/theme-of-pyconjp2016.html>`_
 
-.. warning:: 写真を入れる
-	     
-.. figure:: 
+.. figure:: /_static/after01/pyconjp2016-group-photo.jpg
    :alt: PyCon JP 2016 集合写真
    :width: 400
 
@@ -75,7 +73,11 @@ PyCon JP 2016 は約50名の `スタッフ <https://pycon.jp/2016/ja/about/staff
 この連載の中で、PyCon JP 2016のスタッフがどんな活動をしているかの一端が見えてくると思います。
 今後のPyCon JPや他のイベントのヒントとなるような情報が提供できるとうれしいです。
 
-.. warning:: スタッフ集合写真を入れる
+.. figure:: /_static/after01/pyconjp2016-staff.jpg
+   :width: 400
+   :alt: PyCon JP 2016 スタッフ
+
+   PyCon JP 2016 スタッフ
 
 会場チームのPyCon JP 2016の過ごし方
 ===================================
