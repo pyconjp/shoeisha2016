@@ -26,6 +26,8 @@ Youth Coder Workshop
 
 プログラムチーム、Youth Coder Workshop担当の濱田です。今年のPyCon JPでは子ども向けワークショップを「Youth Coder Workshop」と名前を改めて開催しました。小学校高学年から中高生向けに募集をして、30組近くの参加者に来場いただき、ワークショップを開催できました。
 
+今年のYouth Coder Workshopの内容は自分の地図、「でんのう地図」を作ろうというものでした。
+
 `Youth Coder Workshop <https://pycon.jp/2016/ja/events/youth-ws/>`_
 
 講師・教材作成は昨年に引き続き、今年もICTプログラミングスクールの `TENTO <http://www.tento-net.com/>`_ さんに依頼しました。
