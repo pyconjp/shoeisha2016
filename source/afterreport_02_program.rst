@@ -20,6 +20,35 @@
 -----------------------------
 .. sectionauthor:: hata hirotaka
 
+チュートリアル担当の畠です。
+
+今年もカンファレンスの前日にPythonに関する有料のチュートリアルを開催しました。
+今年は初めての試みとして、スポンサーチュートリアルということで企業やユーザーグループにスポンサーとしてチュートリアルを実施していただきました。
+参加していただいた皆さまやスポンサーをしていただいた企業やユーザーグループ、講師、チューターの方々には大変感謝しております。本当にありがとうございました。
+
+.. figure:: _static/afterreport_02_program/
+   :width: 200px
+   :alt: `BeProud <http://www.beproud.jp/>`_ 提供の `はじめてのPython3 〜画像変換による開発入門〜 <https://pycon.jp/2016/ja/events/tutorial/1/>`_
+
+.. figure:: _static/afterreport_02_program/
+   :width: 200px
+   :alt: `DATUM STUDIO <https://datumstudio.jp/>`_ 提供の `Python を用いたデータ分析入門 <https://pycon.jp/2016/ja/events/tutorial/2/>`_
+
+.. figure:: _static/afterreport_02_program/
+   :width: 200px
+   :alt: `NVIDIA <http://www.nvidia.co.jp/page/home.html>`_ 提供の `Pythonで始めるディープラーニング入門 <https://pycon.jp/2016/ja/events/tutorial/3/>`_
+
+.. figure:: _static/afterreport_02_program/
+   :width: 200px
+   :alt: `Sphinxユーザー会 <http://sphinx-users.jp/>`_ 提供の `Sphinx ハンズオン <https://pycon.jp/2016/ja/events/tutorial/4/>`_
+
+
+今年のチュートリアルは去年までよりもっと手厚い初級者の方がしっかり学べるものにするためにはどのような形にしたら良いのだろうかということをチーム内で話し合い、結果としてスポンサーチュートリアルという形になりました。
+スポンサーにチュートリアルを実施していただくことによって、講師だけでなくチューターも用意してのきめ細かい対応が可能だったり１日みっちりと学習できたりと目的は達成できたのではないかと思っています。
+
+会場については、今年もカンファレンスと同じ場所にある会議室を使用しました。
+準備として、チュートリアル当日の受付、会場設営、会場の片付けを行いました。当日の受付や事前準備をしていただいたチームメンバーにも感謝しております。ありがとうございました。
+
 Youth Coder Workshop
 ---------------------------
 .. sectionauthor:: Yuya Hamada
