@@ -58,7 +58,7 @@ Youth Coder Workshop
 参加者は興味のあるブースを自由に回ることができるので、発表者との距離が近く、実際に質問したり触れてみたり、より活発にコミュニケーションをとることができるセッションになります！
 当日はランチタイムと時間が合っていたため、多くの人で賑わっていましたね。
 
-.. figure:: /_static/beforereport_02_program/poster2016.jpg
+.. figure:: /_static/afterreport_02_program/poster2016.jpg
    :width: 300
 
    ポスターセッションの様子(PyCon JP 2016)
