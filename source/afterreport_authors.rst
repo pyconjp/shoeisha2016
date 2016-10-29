@@ -195,3 +195,12 @@ PyCon JPでSponsorshipを中心に、事務局まわりを担当しています�
 - Facebook: `高品佑也 <https://www.facebook.com/yuya.takashina.3>`_
 
 
+小松 大輔(こまつ だいすけ)
+==========================
+
+.. image:: /_static/afterreport_authors/vkgtaro.jpg
+
+メディアチーム 当日撮影担当の片割れ。去年から撮影担当は Perl Monger の2人組だったり。来年はカメラの時計を合わせるのを忘れないように……。
+
+- Twitter： `@vkgtaro <https://twitter.com/vkgtaro>`_
+- Flickr: `https://www.flickr.com/photos/vkgtaro/ <https://www.flickr.com/photos/vkgtaro/>`_
