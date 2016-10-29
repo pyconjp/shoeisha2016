@@ -12,7 +12,7 @@
 骨子: `SAR-1490 <https://pyconjp.atlassian.net/browse/SAR-1490>`_
 
 会場チームのPyCon JP 2016の過ごし方
-==================================
+=========================================
 執筆担当: 会場チームメンバー
 骨子: `SAR-1266 <https://pyconjp.atlassian.net/browse/SAR-1266>`_
 
@@ -56,7 +56,7 @@ Party
 
 .. image:: /_static/afterreport_01_venue/venue_preparation.jpg
 
-  前日準備の様子です。設営が進み雰囲気が出てきました。
+(前日準備の様子です。設営が進み雰囲気が出てきました。)
 
 
 当日の様子
@@ -73,7 +73,7 @@ Party
 
 .. image:: /_static/afterreport_01_venue/after_perty_meeting.jpg
 
-  1日目のパーティー終了後にスタッフ全員でミーティングを行いました。
+(1日目のパーティー終了後にスタッフ全員でミーティングを行いました。)
 
 
 後片付け
