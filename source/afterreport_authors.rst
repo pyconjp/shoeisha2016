@@ -195,3 +195,11 @@ PyCon JPでSponsorshipを中心に、事務局まわりを担当しています�
 - Facebook: `高品佑也 <https://www.facebook.com/yuya.takashina.3>`_
 
 
+若林 哲宇（ワカバヤシ サトヒロ）
+=================================
+
+.. image:: /_static/afterreport_authors/wakabayashi.jpg
+
+PyCon JP 2016 会場チーム。主に会場関連の手続きを担当。早稲田大学基幹理工学部情報理工学科4年。
+学生ですがRailsを中心にwebエンジニアをしています。
+PyCon JPのスタッフをしておいてなんですがRubyを書きます。
