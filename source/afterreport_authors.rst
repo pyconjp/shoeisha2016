@@ -207,7 +207,7 @@ PyCon JPのスタッフをしておいてなんですがRubyを書きます。
 稲葉 一彦（イナバ カズヒコ）
 =================================
 
-.. image:: /_static/afterreport_authors/kazsan.jpg
+.. image:: /_static/afterreport_authors/nabaua.jpg
 
 本職インフラ。
 いろいろな事をしていて、コミュニティーにもよく顔出すよくわからない謎の男。
