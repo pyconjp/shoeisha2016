@@ -33,8 +33,8 @@ PyCon JP 2016からスタッフ参加で、今年はメインでiOSアプリ開�
 iOSアプリ作成の進め方
 ----------
 iOSアプリ本体の開発はGitHubの `pyconjp/pyconjp-ios <https://github.com/pyconjp/pyconjp-ios>`_ で行っており、APIは `pyconjp/pyconjp-website <https://github.com/pyconjp/pyconjp-website>`_ に内包されています。
-今年は私1人の開発でしたが、基本的にPull Request形式、issueでタスク管理 (PyCon JPのJIRA管理だとスタッフ外から見ることができないため) という形にしました。
-PyCon JP 2016開催直前にGitHub projects機能がリリースされましたが、来年はこちらでタスク管理を行おうと思っています。
+今年は私1人の開発でしたが、基本的にPull Request形式としました。
+PyCon JPのJIRAだとスタッフ外から見ることができなくなってしまうため、タスク管理はGItHubのissueを使用しましたが、来年はGitHub projectsを採用しようかと思っています。
 ライブラリは `通信 <https://github.com/Alamofire/Foundation>`_ と `MobileDB <https://realm.io/products/swift/>`_ のみ使用し、できる限り自分で作成しました。
 どんな機能を提供するべきかの要件定義に時間がかかっていまったため、トークにフォーカスを絞った作りになりましたが、特にブックマーク機能は好評頂けていたようです。
 また、デザイナーさんはロゴやTシャツ、パンフレット、Webとタスクを多く抱えていたので、大枠はAndroidのエンジニアと私とで決め、色の調整や画像の作成のみお願いすることとしました。
