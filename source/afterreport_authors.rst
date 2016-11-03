@@ -204,3 +204,20 @@ PyCon JPでSponsorshipを中心に、事務局まわりを担当しています�
 
 - Twitter： `@vkgtaro <https://twitter.com/vkgtaro>`_
 - Flickr: `https://www.flickr.com/photos/vkgtaro/ <https://www.flickr.com/photos/vkgtaro/>`_
+
+
+牟田 裕太郎 (ムタ ユウタロウ)
+=================================
+
+.. image:: /_static/afterreport_authors/yutaro.jpg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ からスタッフ、メディアチーム所属 (主にWebシステム) 。 `iOSガイドアプリ <https://itunes.apple.com/us/app/pycon-jp-2016/id1149419450>`_ の開発を担当。
+
+普段はPythonではなく、本業はSwift(Objective-C)のiOSアプリエンジニア。
+Python歴は2015年4月~
+
+- Twitter `@yutailang0119 <https://twitter.com/yutailang0119>`_
+- Facebook `muta.yutaro <https://www.facebook.com/muta.yutaro>`_
+
+
+
