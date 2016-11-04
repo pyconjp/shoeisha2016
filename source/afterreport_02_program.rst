@@ -24,30 +24,40 @@
 
 今年もカンファレンスの前日にPythonに関する有料のチュートリアルを開催しました。
 今年は初めての試みとして、スポンサーチュートリアルということで企業やユーザーグループにスポンサーとしてチュートリアルを実施していただきました。
-参加していただいた皆さまやスポンサーをしていただいた企業やユーザーグループ、講師、チューターの方々には大変感謝しております。本当にありがとうございました。
+当日は70名以上の方が参加され、終了後も講師に質問をする人が何人もいるなど意欲を持って参加されていました。
+参加していただいた皆さまとスポンサーをしていただいた企業やユーザーグループ、講師、チューターの方々には大変感謝しております。本当にありがとうございました。
 
-.. figure:: _static/afterreport_02_program/
+.. figure:: _static/afterreport_02_program/tutorial1.jpg
    :width: 200px
-   :alt: `BeProud <http://www.beproud.jp/>`_ 提供の `はじめてのPython3 〜画像変換による開発入門〜 <https://pycon.jp/2016/ja/events/tutorial/1/>`_
+   
+   `BeProud <http://www.beproud.jp/>`_ 提供の `はじめてのPython3 〜画像変換による開発入門〜 <https://pycon.jp/2016/ja/events/tutorial/1/>`_
 
-.. figure:: _static/afterreport_02_program/
+
+.. figure:: _static/afterreport_02_program/tutorial2.jpg
    :width: 200px
-   :alt: `DATUM STUDIO <https://datumstudio.jp/>`_ 提供の `Python を用いたデータ分析入門 <https://pycon.jp/2016/ja/events/tutorial/2/>`_
+   
+   `DATUM STUDIO <https://datumstudio.jp/>`_ 提供の `Python を用いたデータ分析入門 <https://pycon.jp/2016/ja/events/tutorial/2/>`_
 
-.. figure:: _static/afterreport_02_program/
+
+.. figure:: _static/afterreport_02_program/tutorial3.jpg
    :width: 200px
-   :alt: `NVIDIA <http://www.nvidia.co.jp/page/home.html>`_ 提供の `Pythonで始めるディープラーニング入門 <https://pycon.jp/2016/ja/events/tutorial/3/>`_
+   
+   `NVIDIA <http://www.nvidia.co.jp/page/home.html>`_ 提供の `Pythonで始めるディープラーニング入門 <https://pycon.jp/2016/ja/events/tutorial/3/>`_
 
-.. figure:: _static/afterreport_02_program/
+
+.. figure:: _static/afterreport_02_program/tutorial4.jpg
    :width: 200px
-   :alt: `Sphinxユーザー会 <http://sphinx-users.jp/>`_ 提供の `Sphinx ハンズオン <https://pycon.jp/2016/ja/events/tutorial/4/>`_
+   
+   `Sphinxユーザー会 <http://sphinx-users.jp/>`_ 提供の `Sphinx ハンズオン <https://pycon.jp/2016/ja/events/tutorial/4/>`_
 
 
-今年のチュートリアルは去年までよりもっと手厚い初級者の方がしっかり学べるものにするためにはどのような形にしたら良いのだろうかということをチーム内で話し合い、結果としてスポンサーチュートリアルという形になりました。
+今年のチュートリアルは、初級者の方がしっかり学べるものにするために、チュートリアル中のサポートを去年までよりもっと手厚くする方法はないか？など、どのような形にしたら良いのだろうかということをチーム内で話し合いました。
 スポンサーにチュートリアルを実施していただくことによって、講師だけでなくチューターも用意してのきめ細かい対応が可能だったり１日みっちりと学習できたりと目的は達成できたのではないかと思っています。
 
 会場については、今年もカンファレンスと同じ場所にある会議室を使用しました。
-準備として、チュートリアル当日の受付、会場設営、会場の片付けを行いました。当日の受付や事前準備をしていただいたチームメンバーにも感謝しております。ありがとうございました。
+チュートリアル当日はプログラムチームで受付を行いました。
+会場設営、会場の片付けは会場チームにお任せしたのですが、チュートリアルデイにもかかわらず多数の方に実施していただくことができてとても助かりました。
+
 
 Youth Coder Workshop
 ---------------------------
