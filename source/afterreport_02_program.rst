@@ -151,11 +151,13 @@ Youth Coder Workshop
 
 .. figure:: _static/afterreport_02_program/29890594085_776e6e5418_z.jpg
    :width: 200px
-   :alt: 講師 TENTO 松尾氏
+
+   講師 TENTO 松尾氏
 
 .. figure:: _static/afterreport_02_program/29596889060_a3055b17fb_z.jpg
    :width: 200px
-   :alt: TENTO 松尾氏ととあるYouth Coder
+
+   TENTO 松尾氏ととあるYouth Coder
 
 
 昨年が好評だったため、プレッシャーがありましたが、昨年の反省点を反映させた運営ができたと思います。昨年は初めての試みだったこともあり、当日の参加者の受付が受付担当に引き継げてなくてドタバタだった部分がありました。
@@ -176,7 +178,8 @@ Youth Coder Workshop
 
 .. figure:: _static/afterreport_02_program/29259366483_d34858471d_z.jpg
    :width: 200px
-   :alt: 当日のヘルプをしている濱田とYouth Coder
+
+   当日のヘルプをしている濱田とYouth Coder
 
 スプリント
 ----------------------
