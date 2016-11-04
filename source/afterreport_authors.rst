@@ -120,7 +120,7 @@ Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
 
 `PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当副座長。
 早稲田大学基幹理工学研究科博士後期課程および同大学教育学部助手。
-プログラミング言語の教育を専門に研究している。Pythonを使ったGUIプログラミングに興味がある。
+現在はプログラミング言語の教育を研究している。Pythonを使ったGUIプログラミングに興味がある。
 特にKivyがマイブーム。Kivyのドキュメントを翻訳したりしている。
 
 - Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
