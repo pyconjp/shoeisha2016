@@ -219,5 +219,17 @@ Python歴は2015年4月~
 - Twitter `@yutailang0119 <https://twitter.com/yutailang0119>`_
 - Facebook `muta.yutaro <https://www.facebook.com/muta.yutaro>`_
 
+陶山 嶺(スヤマ レイ)
+=================================
 
+.. image:: /_static/afterreport_authors/suyamar.jpg
 
+PyCon JP 2016 公式ガイドアプリの `Android版 <https://play.google.com/store/apps/details?id=jp.pycon.pyconjp2016app>`_ の開発，Webシステムを担当。
+
+普段の業務でもiOS/Androidアプリケーションの開発をメインとしているが，学生時代から一番好きな言語はずっとPythonのまま。
+
+PyCon JP 2015に一般参加した際，スタッフの動きを見ながら学生時代にイベントの企画を行っていた経験を思い出す。
+Python自体に貢献したい気持ちもあったため，PyCon JP 2016〜はスタッフとして参加している。
+
+- Twitter `@rhoboro <https://twitter.com/rhoboro>`_
+- Facebook `陶山 嶺 <https://www.facebook.com/rei.suyama>`_
