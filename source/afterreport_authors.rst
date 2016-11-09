@@ -213,3 +213,16 @@ PyCon JPのスタッフをしておいてなんですがRubyを書きます。
 いろいろな事をしていて、コミュニティーにもよく顔出すよくわからない謎の男。
 趣味 勉強会へ出没。
 機会があれば、日本語を忘れて、海外へ出たいと思っている輩です。
+
+濱田 侑弥（ハマダ ユウヤ）
+=================================
+
+.. image:: /_static/afterreport_authors/yuyahamada.png
+
+PyCon JP 2016でYouth Coder Workshopの担当。
+最近仕事ではPythonを使っていないが、AnsibleやFabricなどのPython製の自動化ツールは使っている。
+
+趣味ではRaspberry PiやArduino、Leap MotionをいじるためにPythonを使っている。プログラミング以外の趣味はジョギング。
+
+- Twitter: `@youkidearitai <https://twitter.com/youkidearitai>`_
+
