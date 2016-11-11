@@ -120,7 +120,7 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
    :align: center
    :width: 500px
 
-鷲崎先生の講演の様子
+   鷲崎先生の講演の様子
 
 講演内容について、 `PyCon JP 2016カンファレンスレポート  <http://gihyo.jp/news/report/01/pyconjp2016/0001>`_ 、をご覧ください
 
@@ -130,7 +130,7 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
    :align: center
    :width: 500px
 
-得居氏の講演の様子
+   得居氏の講演の様子
 
 
 講演内容について、 `PyCon JP 2016カンファレンスレポート  <http://gihyo.jp/news/report/01/pyconjp2016/0001?page=3>`_ 、をご覧ください
