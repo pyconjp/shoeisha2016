@@ -122,7 +122,7 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
 
    鷲崎先生の講演の様子
 
-講演内容について、 `PyCon JP 2016カンファレンスレポート  <http://gihyo.jp/news/report/01/pyconjp2016/0001>`_ 、をご覧ください
+講演内容について、 `PyCon JP 2016カンファレンスレポート  <http://gihyo.jp/news/report/01/pyconjp2016/0001>`__ をご覧ください
 
 得居氏には「確率的ニューラルネットの学習とChainerによる実装」というテーマでお話頂きました。
 
@@ -133,7 +133,7 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
    得居氏の講演の様子
 
 
-講演内容について、 `PyCon JP 2016カンファレンスレポート  <http://gihyo.jp/news/report/01/pyconjp2016/0001?page=3>`_ 、をご覧ください
+講演内容について、 `PyCon JP 2016カンファレンスレポート  <http://gihyo.jp/news/report/01/pyconjp2016/0001?page=3>`__ をご覧ください
 
 
 今年初めて、PyCon JPで招待講演を行いました。
