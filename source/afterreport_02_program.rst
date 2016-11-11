@@ -49,10 +49,14 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
 このミーティングの結果、今年はJessica McKellarさん、Andrey Vlasovskikhさんのお二人にお願いすることになりました。
 
 .. figure:: /_static/beforereport_01_pyconjp/jessica_profile.jpg
+   :align: center
+   :width: 500px
 
    Jessica McKellarさん
 
 .. figure:: /_static/beforereport_01_pyconjp/andrey_profile.jpg
+   :align: center
+   :width: 500px
 
    Andrey Vlasovskikhさん
 
@@ -68,6 +72,8 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
 また、今年はAndreyさんの要望に応える形で東京観光に行きました。行き先は靖国神社、浅草などのメジャーな観光地でしたが、喜んでもらえたのではないかと思います。ただ、この像は誰なの？とか、お賽銭ってどういう意味があるの？といった質問にうまく答えられなかったのは反省点でした。
 
 .. figure:: /_static/afterreport_02_program/weekend_trip.jpg
+   :align: center
+   :width: 500px
 
    東京駅前でAndreyさんと撮影
 
@@ -79,12 +85,16 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
 講演では、プログラマにはシステムを変える力があること、そして、その力は社会的なシステムのような、通常プログラマが扱うものとは異なるシステムにも適用できることを語られていました。また、その具体例として、Jessicaさんの最近の活動を紹介されていました。
 
 .. figure:: /_static/afterreport_02_program/jessica_keynote.jpg
+   :align: center
+   :width: 500px
 
    Jessicaさんのキーノートの様子
 
 二日目のキーノートは、Andreyさんによる「What's New in Python 3.6」というタイトルの講演でした。講演では、Python 3.6で導入予定の機能として、Type Hintsや非同期処理に関する新機能を紹介されていました。
 
 .. figure:: /_static/afterreport_02_program/andrey_keynote.jpg
+   :align: center
+   :width: 500px
 
    Andreyさんのキーノートの様子
 
@@ -107,7 +117,8 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
 鷲崎先生には「Pythonを含む多くのプログラミング言語を扱う処理フレームワークとパターン」というテーマでお話頂きました。
 
 .. figure:: /_static/afterreport_02_program/invited_speaker_washizaki2.jpg
-:width: 300px
+   :align: center
+   :width: 500px
 
 鷲崎先生の講演の様子
 
@@ -116,7 +127,8 @@ PyCon JP 2016の雰囲気をこのレポートを通して味わってみてく�
 得居氏には「確率的ニューラルネットの学習とChainerによる実装」というテーマでお話頂きました。
 
 .. figure:: /_static/afterreport_02_program/invited_speaker_tokui2.jpg
-:width: 300px
+   :align: center
+   :width: 500px
 
 得居氏の講演の様子
 
@@ -147,7 +159,8 @@ Twitterやアンケートには招待講演についての記載や、招待講�
 皆さんは思いもよらない何かに出会えたでしょうか？
 
 .. figure:: /_static/afterreport_02_program/talksession2.*
-   :width: 200px
+   :align: center
+   :width: 500px
 
    トークセッションの様子
 
@@ -204,25 +217,29 @@ Twitterやアンケートには招待講演についての記載や、招待講�
 参加していただいた皆さまとスポンサーをしていただいた企業やユーザーグループ、講師、チューターの方々には大変感謝しております。本当にありがとうございました。
 
 .. figure:: _static/afterreport_02_program/tutorial1.jpg
-   :width: 200px
+   :align: center
+   :width: 500px
    
    `BeProud <http://www.beproud.jp/>`_ 提供の `はじめてのPython3 〜画像変換による開発入門〜 <https://pycon.jp/2016/ja/events/tutorial/1/>`_
 
 
 .. figure:: _static/afterreport_02_program/tutorial2.jpg
-   :width: 200px
+   :align: center
+   :width: 500px
    
    `DATUM STUDIO <https://datumstudio.jp/>`_ 提供の `Python を用いたデータ分析入門 <https://pycon.jp/2016/ja/events/tutorial/2/>`_
 
 
 .. figure:: _static/afterreport_02_program/tutorial3.jpg
-   :width: 200px
+   :align: center
+   :width: 500px
    
    `NVIDIA <http://www.nvidia.co.jp/page/home.html>`_ 提供の `Pythonで始めるディープラーニング入門 <https://pycon.jp/2016/ja/events/tutorial/3/>`_
 
 
 .. figure:: _static/afterreport_02_program/tutorial4.jpg
-   :width: 200px
+   :align: center
+   :width: 500px
    
    `Sphinxユーザー会 <http://sphinx-users.jp/>`_ 提供の `Sphinx ハンズオン <https://pycon.jp/2016/ja/events/tutorial/4/>`_
 
@@ -245,7 +262,8 @@ Twitterやアンケートには招待講演についての記載や、招待講�
 当日はランチタイムと時間が合っていたため、多くの人で賑わっていましたね。
 
 .. figure:: /_static/afterreport_02_program/poster2016.jpg
-   :width: 300
+   :align: center
+   :width: 500px
 
    ポスターセッションの様子(PyCon JP 2016)
 
@@ -268,12 +286,14 @@ Youth Coder Workshop
 講師・教材作成は昨年に引き続き、今年もICTプログラミングスクールの `TENTO <http://www.tento-net.com/>`_ さんに依頼しました。
 
 .. figure:: _static/afterreport_02_program/29890594085_776e6e5418_z.jpg
-   :width: 200px
+   :align: center
+   :width: 500px
 
    講師 TENTO 松尾氏
 
 .. figure:: _static/afterreport_02_program/29596889060_a3055b17fb_z.jpg
-   :width: 200px
+   :align: center
+   :width: 500px
 
    TENTO 松尾氏ととあるYouth Coder
 
@@ -295,7 +315,8 @@ Youth Coder Workshop
 プログラミング教育という分野はまだいろいろな人がやり方を模索している最中だと思います。子どもの数だけ正解がある、ここが難しいところだと思いますが、子どもの気付きにはいつも驚かされます。PyCon JP 2017のスタッフは募集中ですが、新しいスタッフと一緒に壁にぶち当たって悩んだりして子どもにプログラミングの楽しさを教えられるワークショップを作れたらいいな、と思っています。
 
 .. figure:: _static/afterreport_02_program/29259366483_d34858471d_z.jpg
-   :width: 200px
+   :align: center
+   :width: 500px
 
    当日のヘルプをしている濱田とYouth Coder
 
@@ -319,7 +340,8 @@ Bottle.pyライブコーディング&リーディングの講師は山田さん�
 
 
 .. figure:: /_static/afterreport_02_program/beginnersession1.*
-   :width: 300px
+   :align: center
+   :width: 500px
 
    ビギナーセッションの様子
 
@@ -374,14 +396,13 @@ LTは、5分間と短い時間ですが、参加者全員の前で発表がで�
 
 来年もスプリントが開催されると思うので、PyCon JPのカンファレンスに参加してから、ぜひスプリントにも参加してみて、様々なテーマに取り込んでみてください。スプリントにいらっしゃる方は何かしら飛び抜けたところを持っているので、エンジニア同士の交流の場としてもおすすめです。今回の広報はPyCon JP公式サイトでしか行わなかったので、もう少し参加人数を伸ばせたかもしれないところが、ちょっとした反省点です。来年ではまた頑張ります。スプリントリーダーには誰でもなれますので、こんな内容をみんなでやろうぜ！という方は来年ぜひ参加してください。もちろん、一人でもやるぜ！という方も歓迎です。
 
-.. image:: /_static/afterreport_02_program/sprint01.jpg
-    :align: center
+.. figure:: /_static/afterreport_02_program/sprint01.jpg
+   :align: center
+   :width: 500px
 
-.. image:: /_static/afterreport_02_program/sprint02.jpg
-    :align: center
-
-
-
+.. figure:: /_static/afterreport_02_program/sprint02.jpg
+   :align: center
+   :width: 500px
 
 
 最後に
