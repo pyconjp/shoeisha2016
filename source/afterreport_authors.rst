@@ -80,7 +80,7 @@ Sphinx-users.jp 運営。 一般社団法人PyConJP理事。 株式会社ビー�
 ==============================
 .. image:: /_static/beforereport_authors/masuoka.jpg
 
-`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当。 `株式会社レトリバ <https://retrieva.jp>`_ 所属
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当。 `株式会社Preferred Infrastructure <https://preferred.jp>`_ 所属
 
 業務でDjangoとPythonに、Pythonに興味をもつ。業務以外では、Python製深層学習フレームワークChainerのコミュニティ活動を行う。
 PyCon JPは2016から参加。
@@ -120,7 +120,7 @@ Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
 
 `PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当副座長。
 早稲田大学基幹理工学研究科博士後期課程および同大学教育学部助手。
-現在はプログラミング言語の教育を研究している。Pythonを使ったGUIプログラミングに興味がある。
+プログラミング言語の教育を専門に研究している。Pythonを使ったGUIプログラミングに興味がある。
 特にKivyがマイブーム。Kivyのドキュメントを翻訳したりしている。
 
 - Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
@@ -213,16 +213,3 @@ PyCon JPのスタッフをしておいてなんですがRubyを書きます。
 いろいろな事をしていて、コミュニティーにもよく顔出すよくわからない謎の男。
 趣味 勉強会へ出没。
 機会があれば、日本語を忘れて、海外へ出たいと思っている輩です。
-
-濱田 侑弥（ハマダ ユウヤ）
-=================================
-
-.. image:: /_static/afterreport_authors/yuyahamada.png
-
-PyCon JP 2016でYouth Coder Workshopの担当。
-最近仕事ではPythonを使っていないが、AnsibleやFabricなどのPython製の自動化ツールは使っている。
-
-趣味ではRaspberry PiやArduino、Leap MotionをいじるためにPythonを使っている。プログラミング以外の趣味はジョギング。
-
-- Twitter: `@youkidearitai <https://twitter.com/youkidearitai>`_
-
