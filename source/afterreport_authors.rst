@@ -239,3 +239,16 @@ PyCon JP 2016では会場チームにて食事関連など諸々担当。`Python
 
 - Twitter: `@massa142 <https://twitter.com/massa142>`__
 - Facebook: `新井 正貴 <https://www.facebook.com/mstk214>`_
+
+木村　真（キムラ　マコト）
+=================================
+
+.. image:: /_static/afterreport_authors/kimura.jpg
+
+PyCon JP 2016からスタッフとして参加。メディアチームに所属。
+普段はPythonと関係のない仕事をしていて、趣味でPython始めました。
+
+休日は三歳の娘と一緒に遊んでます。
+
+- Twitter: `@mktkmr4 <https://twitter.com/mktkmr4>`__
+- Facebook: `木村　真 <https://www.facebook.com/makoto.kimura.9406>`_
