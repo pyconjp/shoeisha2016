@@ -226,3 +226,16 @@ PyCon JP 2016でYouth Coder Workshopの担当。
 
 - Twitter: `@youkidearitai <https://twitter.com/youkidearitai>`_
 
+新井 正貴（アライ マサタカ）
+=================================
+
+.. image:: /_static/afterreport_authors/arai.jpg
+
+PyCon JP 2016では会場チームにて食事関連など諸々担当。`Pythonもくもく会 <https://mokupy.connpass.com/>`_ を開催したりしてます。
+
+最近はJavaScriptなどフロントエンド頑張ってます。
+
+趣味はラクロスとPerfume。
+
+- Twitter: `@massa142 <https://twitter.com/massa142>`__
+- Facebook: `新井 正貴 <https://www.facebook.com/mstk214>`_
