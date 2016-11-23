@@ -252,3 +252,15 @@ PyCon JP 2016からスタッフとして参加。メディアチームに所属�
 
 - Twitter: `@mktkmr4 <https://twitter.com/mktkmr4>`__
 - Facebook: `木村　真 <https://www.facebook.com/makoto.kimura.9406>`_
+
+劉　南佐（リュウ　ナンサ）Liu, Nan-Tsou (Joey)
+=================================
+
+.. image:: /_static/afterreport_authors/joey.png
+
+PyCon JP 2016でプログラムのスプリントを担当しました。
+今の仕事はPythonを使ってウェブアプリケーションを開発しており、このきっかけて初めてスタッフとして参加しました。
+
+個人的にPythonを使ってdata analysisとmachine/deep learningを勉強しています。
+
+- Facebook: `劉　南佐 <https://www.facebook.com/DdrSmiLe>`_
