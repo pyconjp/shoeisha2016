@@ -145,7 +145,7 @@ PyCon JPは2016年から参加。
 
 CMSコミュニケーションズ勤務。PyCon JP 2015よりWeb担当をしています。
 
-JavaScriptのフロントエンド開発を中心にWebプログラマをしています。ゲーム系のエンタメ誌のエディターや，サブカル系のショップのWebディレクターを経て，20代後半にPython/Djangoに出会い，Webプログラマとなりました。現在は，PythonとJavaScriptの両方をメインに，研究会なども開催しています。。
+JavaScriptのフロントエンド開発を中心にWebプログラマをしています。ゲーム系のエンタメ誌のエディターや，サブカル系のショップのWebディレクターを経て，20代後半にPython/Djangoに出会い，Webプログラマとなりました。現在は，PythonとJavaScriptの両方をメインに，研究会なども開催しています。
 
 - Twitter: `@yellow844 <https://twitter.com/yellow844>`_
 
