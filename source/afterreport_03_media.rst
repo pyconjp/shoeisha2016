@@ -117,7 +117,7 @@ Twitterで連絡を取り合って、クロージング後に少しお話をさ�
 
 撮影について
 ================
-メディアチームで撮影を担当していた小松です。
+メディアチームで撮影を担当した小松です。
 `昨年に引き続き、 <https://codezine.jp/article/detail/9079?p=3>`_ 今年の PyCon JP も臼井さんとの2名体制で行いました。
 
 - `PyCon JP | Flickr <https://www.flickr.com/photos/pyconjp/>`_
