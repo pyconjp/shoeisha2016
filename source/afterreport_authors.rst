@@ -263,3 +263,42 @@ PyCon JP 2016でYouth Coder Workshopの担当。
 趣味ではRaspberry PiやArduino、Leap MotionをいじるためにPythonを使っている。プログラミング以外の趣味はジョギング。
 
 - Twitter: `@youkidearitai <https://twitter.com/youkidearitai>`_
+
+新井 正貴（アライ マサタカ）
+=================================
+
+.. image:: /_static/afterreport_authors/arai.jpg
+
+PyCon JP 2016では会場チームにて食事関連など諸々担当。`Pythonもくもく会 <https://mokupy.connpass.com/>`_ を開催したりしてます。
+
+最近はJavaScriptなどフロントエンド頑張ってます。
+
+趣味はラクロスとPerfume。
+
+- Twitter: `@massa142 <https://twitter.com/massa142>`__
+- Facebook: `新井 正貴 <https://www.facebook.com/mstk214>`_
+
+木村　真（キムラ　マコト）
+=================================
+
+.. image:: /_static/afterreport_authors/kimura.jpg
+
+PyCon JP 2016からスタッフとして参加。メディアチームに所属。
+普段はPythonと関係のない仕事をしていて、趣味でPython始めました。
+
+休日は三歳の娘と一緒に遊んでます。
+
+- Twitter: `@mktkmr4 <https://twitter.com/mktkmr4>`__
+- Facebook: `木村　真 <https://www.facebook.com/makoto.kimura.9406>`_
+
+劉　南佐（リュウ　ナンサ）Liu, Nan-Tsou (Joey)
+=================================
+
+.. image:: _static/afterreport_authors/joey.png
+
+PyCon JP 2016でプログラムのスプリントを担当しました。
+今の仕事はPythonを使ってウェブアプリケーションを開発しており、それがきっかけで初めてスタッフとして参加しました。
+
+個人的にPythonを使ってdata analysisとmachine/deep learningを勉強しています。
+
+- Facebook: `劉　南佐 <https://www.facebook.com/DdrSmiLe>`_
