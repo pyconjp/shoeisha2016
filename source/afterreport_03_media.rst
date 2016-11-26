@@ -26,7 +26,7 @@ PyCon JP 2016からスタッフ参加で、今年はメインでiOSアプリ開�
 
    `App Store <https://itunes.apple.com/us/app/pycon-jp-2016/id1149419450>`_  
 
-私のパートでは、モバイルガイドアプリ作成の経緯と実際の開発についてやiOSアプリエンジニアがPyCon JPスタッフをやってみてという点について書こうと思います。
+私のパートでは、モバイルガイドアプリ作成の経緯と実際の開発についてやiOSアプリエンジニアがPyCon JPスタッフをやってみた経験についてご紹介します。
 `2日目のLT <https://www.youtube.com/watch?v=cyhFFm3yh14&feature=youtu.be&t=28m19s>`_ や `私個人のブログエントリー <http://yutailang0119.hatenablog.com/entry/2016/09/24/180000>`_ と重複する部分もありますが、ご容赦ください。
 
 モバイルアプリ作成の経緯
