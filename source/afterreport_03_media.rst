@@ -118,11 +118,11 @@ Twitterで連絡を取り合って、クロージング後に少しお話をさ�
 撮影について
 ================
 メディアチームで撮影を担当した小松です。
-`昨年に引き続き、 <https://codezine.jp/article/detail/9079?p=3>`_ 今年の PyCon JP も臼井さんとの2名体制で行いました。
+`昨年のPyCon JPでは小松・臼井の両名で撮影を担当しましたが <https://codezine.jp/article/detail/9079?p=3>`_ 、今年も同じコンビで撮影を実施しました。
 
 - `PyCon JP | Flickr <https://www.flickr.com/photos/pyconjp/>`_
 
-今年は臼井さんがフラッシュ、小松がキャプチャーレンズと各々新しいアイテムを持ち込みました。
+今年は臼井がフラッシュ、小松がキャプチャーレンズと各々新しいアイテムを持ち込みました。
 標準レンズと望遠の2本を切り替えて撮影していたのですが、今年はレンズの切り替えが楽になりました。
 
 .. figure:: /_static/afterreport_03_media/capture_lens.jpg
