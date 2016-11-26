@@ -80,7 +80,7 @@ Sphinx-users.jp 運営。 一般社団法人PyConJP理事。 株式会社ビー�
 ==============================
 .. image:: /_static/beforereport_authors/masuoka.jpg
 
-`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当。 `株式会社Preferred Infrastructure <https://preferred.jp>`_ 所属
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当。 `株式会社レトリバ <https://retrieva.jp>`_ 所属
 
 業務でDjangoとPythonに、Pythonに興味をもつ。業務以外では、Python製深層学習フレームワークChainerのコミュニティ活動を行う。
 PyCon JPは2016から参加。
@@ -120,7 +120,7 @@ Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
 
 `PyCon JP 2016 <https://pycon.jp/2016/>`_ プログラム担当副座長。
 早稲田大学基幹理工学研究科博士後期課程および同大学教育学部助手。
-プログラミング言語の教育を専門に研究している。Pythonを使ったGUIプログラミングに興味がある。
+現在はプログラミング言語の教育を研究している。Pythonを使ったGUIプログラミングに興味がある。
 特にKivyがマイブーム。Kivyのドキュメントを翻訳したりしている。
 
 - Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
@@ -143,11 +143,9 @@ PyCon JPは2016年から参加。
 ==============================
 .. image:: /_static/beforereport_authors/Hashimoto_Yasushi.png
 
-PyCon JP 2015より、Web担当をしています。
+CMSコミュニケーションズ勤務。PyCon JP 2015よりWeb担当をしています。
 
-JavaScriptのフロントエンド開発を中心にWebプログラマーをしています。
-
-ゲーム系のエンタメ誌のエディターや、サブカル系のショップのWebディレクターを経て、20代後半にPython/Djangoに出会い、Webプログラマーとなりました。
+JavaScriptのフロントエンド開発を中心にWebプログラマをしています。ゲーム系のエンタメ誌のエディターや，サブカル系のショップのWebディレクターを経て，20代後半にPython/Djangoに出会い，Webプログラマとなりました。現在は，PythonとJavaScriptの両方をメインに，研究会なども開催しています。。
 
 - Twitter: `@yellow844 <https://twitter.com/yellow844>`_
 
@@ -204,3 +202,103 @@ PyCon JPでSponsorshipを中心に、事務局まわりを担当しています�
 
 - Twitter： `@vkgtaro <https://twitter.com/vkgtaro>`_
 - Flickr: `https://www.flickr.com/photos/vkgtaro/ <https://www.flickr.com/photos/vkgtaro/>`_
+
+
+牟田 裕太郎 (ムタ ユウタロウ)
+=================================
+
+.. image:: /_static/afterreport_authors/yutaro.jpg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ からスタッフ、メディアチーム所属 (主にWebシステム) 。 `iOSガイドアプリ <https://itunes.apple.com/us/app/pycon-jp-2016/id1149419450>`_ の開発を担当。
+
+普段はPythonではなく、本業はSwift(Objective-C)のiOSアプリエンジニア。
+Python歴は2015年4月~
+
+- Twitter `@yutailang0119 <https://twitter.com/yutailang0119>`_
+- Facebook `muta.yutaro <https://www.facebook.com/muta.yutaro>`_
+
+陶山 嶺(スヤマ レイ)
+=================================
+
+.. image:: /_static/afterreport_authors/suyamar.jpg
+
+PyCon JP 2016 公式ガイドアプリの `Android版 <https://play.google.com/store/apps/details?id=jp.pycon.pyconjp2016app>`_ の開発，Webシステムを担当。
+
+普段の業務でもiOS/Androidアプリケーションの開発をメインとしているが，学生時代から一番好きな言語はずっとPythonのまま。
+
+PyCon JP 2015に一般参加した際，スタッフの動きを見ながら学生時代にイベントの企画を行っていた経験を思い出す。
+Python自体に貢献したい気持ちもあったため，PyCon JP 2016〜はスタッフとして参加している。
+
+- Twitter `@rhoboro <https://twitter.com/rhoboro>`_
+- Facebook `陶山 嶺 <https://www.facebook.com/rei.suyama>`_
+
+
+若林 哲宇（ワカバヤシ サトヒロ）
+=================================
+
+.. image:: /_static/afterreport_authors/wakabayashi.jpg
+
+PyCon JP 2016 会場チーム。主に会場関連の手続きを担当。早稲田大学基幹理工学部情報理工学科4年。
+学生ですがRailsを中心にwebエンジニアをしています。
+PyCon JPのスタッフをしておいてなんですがRubyを書きます。
+
+稲葉 一彦（イナバ カズヒコ）
+=================================
+
+.. image:: /_static/afterreport_authors/nabaua.jpg
+
+本職インフラ。
+いろいろな事をしていて、コミュニティーにもよく顔出すよくわからない謎の男。
+趣味 勉強会へ出没。
+機会があれば、日本語を忘れて、海外へ出たいと思っている輩です。
+
+濱田 侑弥（ハマダ ユウヤ）
+=================================
+
+.. image:: /_static/afterreport_authors/yuyahamada.png
+
+PyCon JP 2016でYouth Coder Workshopの担当。
+最近仕事ではPythonを使っていないが、AnsibleやFabricなどのPython製の自動化ツールは使っている。
+
+趣味ではRaspberry PiやArduino、Leap MotionをいじるためにPythonを使っている。プログラミング以外の趣味はジョギング。
+
+- Twitter: `@youkidearitai <https://twitter.com/youkidearitai>`_
+
+新井 正貴（アライ マサタカ）
+=================================
+
+.. image:: /_static/afterreport_authors/arai.jpg
+
+PyCon JP 2016では会場チームにて食事関連など諸々担当。`Pythonもくもく会 <https://mokupy.connpass.com/>`_ を開催したりしてます。
+
+最近はJavaScriptなどフロントエンド頑張ってます。
+
+趣味はラクロスとPerfume。
+
+- Twitter: `@massa142 <https://twitter.com/massa142>`__
+- Facebook: `新井 正貴 <https://www.facebook.com/mstk214>`_
+
+木村　真（キムラ　マコト）
+=================================
+
+.. image:: /_static/afterreport_authors/kimura.jpg
+
+PyCon JP 2016からスタッフとして参加。メディアチームに所属。
+普段はPythonと関係のない仕事をしていて、趣味でPython始めました。
+
+休日は三歳の娘と一緒に遊んでます。
+
+- Twitter: `@mktkmr4 <https://twitter.com/mktkmr4>`__
+- Facebook: `木村　真 <https://www.facebook.com/makoto.kimura.9406>`_
+
+劉　南佐（リュウ　ナンサ）Liu, Nan-Tsou (Joey)
+=================================
+
+.. image:: _static/afterreport_authors/joey.png
+
+PyCon JP 2016でプログラムのスプリントを担当しました。
+今の仕事はPythonを使ってウェブアプリケーションを開発しており、それがきっかけで初めてスタッフとして参加しました。
+
+個人的にPythonを使ってdata analysisとmachine/deep learningを勉強しています。
+
+- Facebook: `劉　南佐 <https://www.facebook.com/DdrSmiLe>`_
