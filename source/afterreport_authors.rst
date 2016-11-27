@@ -143,11 +143,9 @@ PyCon JPは2016年から参加。
 ==============================
 .. image:: /_static/beforereport_authors/Hashimoto_Yasushi.png
 
-PyCon JP 2015より、Web担当をしています。
+CMSコミュニケーションズ勤務。PyCon JP 2015よりWeb担当をしています。
 
-JavaScriptのフロントエンド開発を中心にWebプログラマーをしています。
-
-ゲーム系のエンタメ誌のエディターや、サブカル系のショップのWebディレクターを経て、20代後半にPython/Djangoに出会い、Webプログラマーとなりました。
+JavaScriptのフロントエンド開発を中心にWebプログラマをしています。ゲーム系のエンタメ誌のエディターや，サブカル系のショップのWebディレクターを経て，20代後半にPython/Djangoに出会い，Webプログラマとなりました。現在は，PythonとJavaScriptの両方をメインに，研究会なども開催しています。。
 
 - Twitter: `@yellow844 <https://twitter.com/yellow844>`_
 
@@ -193,6 +191,46 @@ PyCon JPでSponsorshipを中心に、事務局まわりを担当しています�
 　会場チーム。今回会場になった大学で機械学習を勉強したりしています。jupyter 便利です。
 
 - Facebook: `高品佑也 <https://www.facebook.com/yuya.takashina.3>`_
+
+
+小松 大輔(こまつ だいすけ)
+==========================
+
+.. image:: /_static/afterreport_authors/vkgtaro.jpg
+
+メディアチーム 当日撮影担当の片割れ。去年から撮影担当は Perl Monger の2人組だったり。来年はカメラの時計を合わせるのを忘れないように……。
+
+- Twitter： `@vkgtaro <https://twitter.com/vkgtaro>`_
+- Flickr: `https://www.flickr.com/photos/vkgtaro/ <https://www.flickr.com/photos/vkgtaro/>`_
+
+
+牟田 裕太郎 (ムタ ユウタロウ)
+=================================
+
+.. image:: /_static/afterreport_authors/yutaro.jpg
+
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ からスタッフ、メディアチーム所属 (主にWebシステム) 。 `iOSガイドアプリ <https://itunes.apple.com/us/app/pycon-jp-2016/id1149419450>`_ の開発を担当。
+
+普段はPythonではなく、本業はSwift(Objective-C)のiOSアプリエンジニア。
+Python歴は2015年4月~
+
+- Twitter `@yutailang0119 <https://twitter.com/yutailang0119>`_
+- Facebook `muta.yutaro <https://www.facebook.com/muta.yutaro>`_
+
+陶山 嶺(スヤマ レイ)
+=================================
+
+.. image:: /_static/afterreport_authors/suyamar.jpg
+
+PyCon JP 2016 公式ガイドアプリの `Android版 <https://play.google.com/store/apps/details?id=jp.pycon.pyconjp2016app>`_ の開発，Webシステムを担当。
+
+普段の業務でもiOS/Androidアプリケーションの開発をメインとしているが，学生時代から一番好きな言語はずっとPythonのまま。
+
+PyCon JP 2015に一般参加した際，スタッフの動きを見ながら学生時代にイベントの企画を行っていた経験を思い出す。
+Python自体に貢献したい気持ちもあったため，PyCon JP 2016〜はスタッフとして参加している。
+
+- Twitter `@rhoboro <https://twitter.com/rhoboro>`_
+- Facebook `陶山 嶺 <https://www.facebook.com/rei.suyama>`_
 
 
 若林 哲宇（ワカバヤシ サトヒロ）
