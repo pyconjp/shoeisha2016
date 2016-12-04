@@ -311,14 +311,14 @@ PyCon JP 2016でプログラムのスプリントを担当しました。
 千葉県在住，FULLER株式会社のデザイナー。前職がエンジニアであったバックグラウンドもあり，現在も趣味でPythonを利用している。 PyCon JP 2016のデザイナースタッフでもあり，PyCon JP 2016のデザイン・制作にも携わった。
 
 - Twitter: `@denari01 <https://twitter.com/denari01>`__
-- Facebook: `塚本 英成<https://www.facebook.com/denari01>`_
+- Facebook: `塚本 英成 <https://www.facebook.com/denari01>`_
 
 斧田 真奈美（おのだ まなみ）
 =================================
 
 .. image:: /_static/afterreport_authors/onoda.jpg
 
-千葉県在住，FULLER株式会社のデザイナー。前職がエンジニアであったバックグラウンドもあり，現在も趣味でPythonを利用している。 PyCon JP 2016のデザイナースタッフでもあり，PyCon JP 2016のデザイン・制作にも携わった。
+レバレジーズ株式会社所属。レバテック事業部にてエンジニアのキャリアアドバイザーと、エンジニア・クリエイター向け勉強会（ヒカ☆ラボ）の運営リーダーを兼任。PyCon JPは初参加・初スタッフで、グッズの制作を担当。
 
-- Facebook: `斧田 真奈美<https://www.facebook.com/manami.onoda.1>`_
+- Facebook: `斧田 真奈美 <https://www.facebook.com/manami.onoda.1>`_
 
