@@ -302,3 +302,23 @@ PyCon JP 2016でプログラムのスプリントを担当しました。
 個人的にPythonを使ってdata analysisとmachine/deep learningを勉強しています。
 
 - Facebook: `劉　南佐 <https://www.facebook.com/DdrSmiLe>`_
+
+塚本 英成（つかもと ひでなり）
+=================================
+
+.. image:: /_static/afterreport_authors/denari.jpg
+
+千葉県在住，FULLER株式会社のデザイナー。前職がエンジニアであったバックグラウンドもあり，現在も趣味でPythonを利用している。 PyCon JP 2016のデザイナースタッフでもあり，PyCon JP 2016のデザイン・制作にも携わった。
+
+- Twitter: `@denari01 <https://twitter.com/denari01>`__
+- Facebook: `塚本 英成<https://www.facebook.com/denari01>`_
+
+斧田 真奈美（おのだ まなみ）
+=================================
+
+.. image:: /_static/afterreport_authors/onoda.jpg
+
+千葉県在住，FULLER株式会社のデザイナー。前職がエンジニアであったバックグラウンドもあり，現在も趣味でPythonを利用している。 PyCon JP 2016のデザイナースタッフでもあり，PyCon JP 2016のデザイン・制作にも携わった。
+
+- Facebook: `斧田 真奈美<https://www.facebook.com/manami.onoda.1>`_
+
