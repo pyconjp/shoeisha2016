@@ -130,14 +130,14 @@ Twitter: `@ks888sk <https://twitter.com/ks888sk>`_
 ==============================
 .. image:: /_static/beforereport_authors/yuko.jpg
 
-`PyCon JP 2016 <https://pycon.jp/2016/>`_ 広報・メディアスポンサー担当。  
-PyCon JPは2016年から参加。  
+`PyCon JP 2016 <https://pycon.jp/2016/>`_ 広報・メディアスポンサー担当。
+PyCon JPは2016年から参加。
 
-普段は六本木の某IT企業でコードを書いている。社内ではPython派は少数なのが悩みどころ。  
+普段は六本木の某IT企業でコードを書いている。社内ではPython派は少数なのが悩みどころ。
 
-趣味はヴァイオリン演奏とマラソン。  
+趣味はヴァイオリン演奏とマラソン。
 
-- Twitter: `@yukofeb <https://twitter.com/yukofeb>`_  
+- Twitter: `@yukofeb <https://twitter.com/yukofeb>`_
 
 橋本 安司(ハシモト ヤスシ)
 ==============================
@@ -192,6 +192,7 @@ PyCon JPでSponsorshipを中心に、事務局まわりを担当しています�
 
 - Facebook: `高品佑也 <https://www.facebook.com/yuya.takashina.3>`_
 
+<<<<<<< HEAD
 
 小松 大輔(こまつ だいすけ)
 ==========================
@@ -322,3 +323,11 @@ PyCon JP 2016でプログラムのスプリントを担当しました。
 
 - Facebook: `斧田 真奈美 <https://www.facebook.com/manami.onoda.1>`_
 
+=======
+田中　翔(タナカ　ショウ)
+=================================
+　株式会社リクルートテクノロジーズに所属。データ分析、開発者。参加するぐらいなら運営に携わりたいという考えからPyCon JP 2015からスタッフ参加。
+　他の主な活動は、Scala Matsuri 2017<http://2017.scalamatsuri.org/> スタッフ。
+Twitter：@tshowis
+Facebook：Sho Tanaka(https://www.facebook.com/tshowis)
+>>>>>>> origin/SAR-1645
