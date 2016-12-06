@@ -323,11 +323,13 @@ PyCon JP 2016でプログラムのスプリントを担当しました。
 
 - Facebook: `斧田 真奈美 <https://www.facebook.com/manami.onoda.1>`_
 
-=======
 田中　翔(タナカ　ショウ)
 =================================
+
+.. image:: /_static/afterreport_authors/tsho.jpg
+
 　株式会社リクルートテクノロジーズに所属。データ分析、開発者。参加するぐらいなら運営に携わりたいという考えからPyCon JP 2015からスタッフ参加。
-　他の主な活動は、Scala Matsuri 2017<http://2017.scalamatsuri.org/> スタッフ。
-Twitter：@tshowis
-Facebook：Sho Tanaka(https://www.facebook.com/tshowis)
->>>>>>> origin/SAR-1645
+　他の主な活動は、`Scala Matsuri 2017 <http://2017.scalamatsuri.org/>`_ スタッフ。
+
+Twitter：`@tshowis <https://twitter.com/tshois>`__
+Facebook：`Sho Tanaka <https://www.facebook.com/tshowis>`_
