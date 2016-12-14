@@ -105,12 +105,6 @@ PyCon JP 2016では、参加者の皆さんにバッグ、Tシャツ、ステッ
 
    会場のバックパネル
 
-.. figure:: /_static/afterreport_04_secretariat/goods_seal.jpg
-   :align: center
-   :width: 500px
-
-   PyCon JP 2016ステッカー
-
 .. figure:: /_static/afterreport_04_secretariat/goods_t-shirt.jpg
    :align: center
    :width: 500px
@@ -131,12 +125,27 @@ PyCon JP 2016では、参加者の皆さんにバッグ、Tシャツ、ステッ
 
 グッズで気に入っているポイントは今年のロゴの活かせたところかなと思います。（デザインしてくれたlapisさんと塚本さんに感謝！）∞のフォルムとカラフルな配色が特徴だったため、Tシャツはロゴの左端にあるターコイズブルーをスタッフTシャツ、右端にあるホットピンクをスピーカーTシャツに使用しています。また、ステッカーもこれまでの丸型ではなく、∞のフォルムに沿う形にしました。1番大きな部屋に置いた特大バックパネルもかなり色合いが鮮やかで、とてもきれいでした。
 
-
 .. figure:: /_static/afterreport_04_secretariat/mtg.jpeg
    :align: center
    :width: 500px
 
    スタッフTシャツを着用してのミーティング
+
+
+.. figure:: /_static/afterreport_04_secretariat/hotpink_tshirt.jpg
+   :align: center
+   :width: 500px
+
+   ポスターセッションはスピーカーと参加者が直接会話できる場にもなりました
+
+
+.. figure:: /_static/afterreport_04_secretariat/goods_seal.jpg
+   :align: center
+   :width: 500px
+
+   ∞のフォルムに沿う形にした PyCon JP 2016 ステッカー
+
+
 
 PyCon JP 2016当日、自分が発注したグッズ達が参加者の皆さんの手に渡り、使用いただけるのはとても感慨深いものがありました。昨年の担当も言っていましたが、グッズは毎年異なる担当者が発注をしていて、毎年苦労しているので、マニュアル作ります！
 
