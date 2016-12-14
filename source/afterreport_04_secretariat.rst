@@ -58,9 +58,10 @@ PyCon JP 2016のロゴは筆者が作成しました。
 
 .. figure:: /_static/afterreport_04_secretariat/logo-design.png
    :alt: 今年のPyCon JPのロゴ
-   :width: 400
+   :align: center
+   :width: 400px
 
-    今年のPyCon JPのロゴ
+   今年のPyCon JPのロゴ
 
 
 PyCon APAC 2016 in Koreaからアイディアをいただきました
@@ -80,15 +81,15 @@ PyCon JPでも用意した結果PyCon APACの際と同様で周囲に人があ�
 
 .. figure:: /_static/afterreport_04_secretariat/timetable-panel-pycon-apac-2016.jpg
    :align: center
-   :width: 400
+   :width: 500px
 
-    PyCon APAC 2016のタイムテーブルパネル
+   PyCon APAC 2016のタイムテーブルパネル
 
 .. figure:: /_static/afterreport_04_secretariat/timetable-panel-pycon-jp-2016.jpg
    :align: center
-   :width: 400
+   :width: 500px
 
-    PyCon JP 2016のタイムテーブルパネル
+   PyCon JP 2016のタイムテーブルパネル
 
 
 グッズ
@@ -99,19 +100,22 @@ PyCon JPでも用意した結果PyCon APACの際と同様で周囲に人があ�
 PyCon JP 2016では、参加者の皆さんにバッグ、Tシャツ、ステッカーをお配りしています。それらのデザイン決定、発注数の把握と発注が主な作業でした。他にも、スピーカーやスタッフ用のTシャツ、ネックストラップや、トーク中にスピーカーの後ろにあるバックパネル（よく記者会見の後ろにあるようなボードです）、エントランスに設置するバナーの作成も担当していました。
 
 .. figure:: /_static/afterreport_04_secretariat/jesica.jpeg
-   :width: 300
+   :align: center
+   :width: 500px
 
-    会場のバックパネル
+   会場のバックパネル
 
 .. figure:: /_static/afterreport_04_secretariat/goods_seal.jpg
-   :width: 300
+   :align: center
+   :width: 500px
 
-    PyCon JP 2016ステッカー
+   PyCon JP 2016ステッカー
 
 .. figure:: /_static/afterreport_04_secretariat/goods_t-shirt.jpg
-   :width: 300
+   :align: center
+   :width: 500px
 
-    PyCon JP 2016参加者用Tシャツ
+   PyCon JP 2016参加者用Tシャツ
 
 
 
@@ -129,9 +133,10 @@ PyCon JP 2016では、参加者の皆さんにバッグ、Tシャツ、ステッ
 
 
 .. figure:: /_static/afterreport_04_secretariat/mtg.jpeg
-   :width: 300
+   :align: center
+   :width: 500px
 
-    スタッフミーティングの様子
+   スタッフミーティングの様子
 
 PyCon JP 2016当日、自分が発注したグッズ達が参加者の皆さんの手に渡り、使用いただけるのはとても感慨深いものがありました。昨年の担当も言っていましたが、グッズは毎年異なる担当者が発注をしていて、毎年苦労しているので、マニュアル作ります！
 
@@ -146,9 +151,10 @@ PyCon JP 2016当日、自分が発注したグッズ達が参加者の皆さん�
 
 
 .. figure:: /_static/afterreport_04_secretariat/book.jpg
-   :width: 300
+   :align: center
+   :width: 500px
 
-    PyCon JP 2016オフィシャルガイドブック
+   苦労して作った冊子です
 
 
 スタンプラリー
@@ -178,7 +184,8 @@ PyCon JP 2016当日、自分が発注したグッズ達が参加者の皆さん�
 このテーマを元に、こちらの皆さんにパネルディスカッションに登壇頂きました。
 
 .. figure:: /_static/afterreport_04_secretariat/job_fair.jpg
-   :width: 300
+   :align: center
+   :width: 500px
 
     パネルディスカッションの様子
 
